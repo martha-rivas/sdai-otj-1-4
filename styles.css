@@ -1,0 +1,12 @@
+.menu-title {
+    text-align: center;
+    margin: 0 auto; /* Centers the title */
+    width: 800px; /* Centers the text within the title */
+}
+
+h1 {
+    font-family: 'Courier New, Courier, monospace'; /* Specify the font family */
+    font-size: 2.5em; /* Adjust the font size */
+    margin: 20px 0; /* Set top and bottom margin */
+    color: #333; /* Specify the text color */
+}
