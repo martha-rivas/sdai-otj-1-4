@@ -50,3 +50,26 @@ h4 {
     color: #2a9d8f; /* Specify the text color */
     line-height: 1.5; /* Enhance readability */
 }
+
+#favorites-section {
+    padding: 20px;
+    text-align: center;
+    background-color: #FFD180;
+}
+
+.image-gallery {
+    display: flex; 
+    justify-content: space-around;
+    gap: 10px;
+    flex-wrap: wrap;
+    margin-top: 10px;
+}
+
+.image-gallery img {
+    display: inline-block;
+    margin-right: 5px;
+    max-width: 300px;
+    width: 100%;
+    height: auto;
+    border-radius: 8px;
+}
