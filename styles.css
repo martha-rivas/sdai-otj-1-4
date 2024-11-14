@@ -109,7 +109,15 @@ footer .social-icons {
     margin: 0;
     display: flex; /* Flexbox layout*/
     justify-content: center; /* Center horizontally */
-    align-items: center; /* center 
+    align-items: center; /* center */ 
+}
+
+footer .social-icons {
+    display: inline-block;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
 }
 
 footer .copyright {
